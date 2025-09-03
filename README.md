@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Megjafari/Megjafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Backend & Cloud Developer**, currently studying backend development with a focus on cloud solutions.  
 
-Here are some ideas to get you started:
+💡 My journey just started, and I'm excited to grow my skills step by step in programming, backend systems, and cloud technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+- Backend development fundamentals  
+- Databases & APIs  
+- Cloud concepts and infrastructure  
+
+---
+
+### 💻 Interests
+- Building scalable and efficient systems  
+- Exploring cloud technologies (AWS, Azure, GCP)  
+- Software development and problem-solving  
+
+---
+
+### 🔗 Connect with me
+- [LinkedIn](http://www.linkedin.com/in/meghdad-jafari)
+
+---
+
+*"Always learning, always building 🚀"*  
