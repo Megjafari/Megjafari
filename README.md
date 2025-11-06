@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an aspiring **Backend & Cloud Developer**, currently studying backend development with a focus on cloud solutions.  
+I'm an **Backend & Cloud Developer**, currently studying backend development with a focus on cloud solutions.  
 
 💡 My journey just started, and I'm excited to grow my skills step by step in programming, backend systems, and cloud technologies.  
 
