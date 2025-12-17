@@ -1,26 +1,28 @@
 # Hi there 👋
 
-I'm an **Backend & Cloud Developer**, currently studying backend development with a focus on cloud solutions.  
+I'm an **Aspiring Backend & Cloud Developer**, currently focused on backend development with practical experience in building REST APIs, authentication systems, and working with cloud technologies.  
 
-💡 My journey just started, and I'm excited to grow my skills step by step in programming, backend systems, and cloud technologies.  
+💡 I am passionate about building clean, maintainable backend systems and continuously improving my skills in programming, databases, and cloud infrastructure.  
 
 ---
 
 ### 🌱 Currently Learning
-- Backend development fundamentals  
-- Databases & APIs  
-- Cloud concepts and infrastructure  
+- Backend development fundamentals (C#, ASP.NET Core)  
+- Databases & API design (SQL, EF Core, RESTful APIs)  
+- Cloud concepts and infrastructure (AWS, Azure, GCP)  
 
 ---
 
 ### 💻 Interests
-- Building scalable and efficient systems  
-- Exploring cloud technologies (AWS, Azure, GCP)  
+- Building scalable and efficient backend systems  
+- Authentication, security, and system architecture  
+- Cloud technologies and deployment automation  
 - Software development and problem-solving  
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Portfolio & Connect
+- [Portfolio Projects / GitHub](https://github.com/Megjafari)  
 - [LinkedIn](http://www.linkedin.com/in/meghdad-jafari)
 
 ---
