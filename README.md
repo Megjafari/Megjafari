@@ -1,3 +1,7 @@
+<h1 align="center">Meghdad Jafari</h1>
+<h3 align="center">Fullstack developer in progress — building real systems, not just tutorials.</h3>
+
+
 #  About Me:
 💻 I’m currently working on:  <br>Building backend projects with .NET, REST APIs, and cloud-ready architectures.<br><br>🤝 I’m looking to collaborate on:  <br>Backend systems, API development, and AI-integrated applications.<br><br>🛠️ I’m looking for help with:  <br>System design, scalable architecture, and cloud deployment.<br><br>🌱 I’m currently learning:  <br>Advanced .NET, Docker, cloud technologies, and software architecture.<br><br>💬 Ask me about:  <br>C#, ASP.NET Core, APIs, databases, and building real-world backend projects.<br><br>⚡ Fun fact:  <br>I love turning ideas into working systems — from concept to a fully functional product.<br>
 
