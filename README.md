@@ -13,4 +13,4 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meghdad-jafari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:megberserker@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meghdad-jafari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:megberserker@gmail.com) 
