@@ -13,7 +13,7 @@
 
 
 ## 🌐 Portfolio
-👉 https://meghdad-dev.lovable.app
+👉 https://meghdadjafari.dev
 
 
 ## 🌐 Socials:
