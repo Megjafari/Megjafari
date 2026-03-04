@@ -31,9 +31,9 @@ Fullstack developer with a strong backend focus in C# and .NET, building scalabl
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Megjafari&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Megjafari&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Megjafari&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megjafari&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megjafari&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
