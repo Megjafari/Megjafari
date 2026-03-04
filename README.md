@@ -30,13 +30,6 @@ Fullstack developer with a strong backend focus in C# and .NET, building scalabl
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Megjafari&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Megjafari&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megjafari&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### 🌐 Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://meghdadjafari.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghdad-jafari)
