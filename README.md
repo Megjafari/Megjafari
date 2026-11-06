@@ -33,7 +33,7 @@ I'm a fullstack developer in Gothenburg with a backend focus in C# and .NET. I b
 ### Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,mssql,ts,react,angular,tailwind&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,ts,react,angular,tailwind&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,githubactions,linux,bash,nginx,cloudflare,vercel,supabase&theme=dark" />
 </p>
 
