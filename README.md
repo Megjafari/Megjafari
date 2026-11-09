@@ -56,6 +56,6 @@ I'm a fullstack developer in Gothenburg with a backend focus in C# and .NET. I b
 
 ### Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->- [How I Deploy This Blog on My Homelab, and What Broke](https://blog.meghdadjafari.dev/blog/how-i-deploy-this-blog-on-my-homelab-and-what-broke), 28 Oct 2026- [My Homelab: Building My Own Infrastructure](https://blog.meghdadjafari.dev/blog/my-homelab-building-my-own-infrastructure), 28 Oct 2026<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How a Change Reaches My Homelab Cluster](https://blog.meghdadjafari.dev/blog/how-a-change-reaches-my-homelab-cluster), 9 Nov 2026- [How I Deploy This Blog on My Homelab, and What Broke](https://blog.meghdadjafari.dev/blog/how-i-deploy-this-blog-on-my-homelab-and-what-broke), 28 Oct 2026- [My Homelab: Building My Own Infrastructure](https://blog.meghdadjafari.dev/blog/my-homelab-building-my-own-infrastructure), 28 Oct 2026<!-- BLOG-POST-LIST:END -->
 
 [All posts](https://blog.meghdadjafari.dev)
